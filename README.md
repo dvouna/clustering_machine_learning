@@ -1,4 +1,4 @@
-# Penguin Species Clustering in the Arctic
+# Clustering Penguin Species in Antarctica 
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Scikit-learn Version](https://img.shields.io/badge/scikit_learn-1.4.0+-orange.svg)](https://scikit-learn.org/stable/)
