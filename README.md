@@ -1,5 +1,11 @@
 # Penguin Species Clustering in the Arctic
 
+[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Scikit-learn Version](https://img.shields.io/badge/scikit_learn-1.4.0+-orange.svg)](https://scikit-learn.org/stable/)
+[![Scipy Version](https://img.shields.io/badge/scipy-1.12.0+-green.svg)](https://scipy.org/)
+[![Pandas Version](https://img.shields.io/badge/pandas-2.2.1+-purple.svg)](https://pandas.pydata.org/)
+[![Matplotlib Version](https://img.shields.io/badge/matplotlib-3.8.2+-yellow.svg)](https://matplotlib.org/)
+
 ## Project Overview
 
 This data science project utilizes machine learning clustering techniques to identify distinct groups within a dataset of penguin species in the Arctic.  The primary goal is to uncover inherent patterns and relationships in the data, revealing potential species sub-groups or behavioral similarities.  Two different clustering algorithms are implemented: K-Means and Hierarchical Clustering.
